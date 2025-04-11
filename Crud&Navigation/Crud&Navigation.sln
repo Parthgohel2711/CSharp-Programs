@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crud&Navigation", "Crud&Navigation\Crud&Navigation.csproj", "{62873040-E4BE-4806-B85D-28B72C32035B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62873040-E4BE-4806-B85D-28B72C32035B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62873040-E4BE-4806-B85D-28B72C32035B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62873040-E4BE-4806-B85D-28B72C32035B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62873040-E4BE-4806-B85D-28B72C32035B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A3722E7-8180-4C9D-B284-A656FB0AE450}
+	EndGlobalSection
+EndGlobal
